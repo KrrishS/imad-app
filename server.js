@@ -1,5 +1,5 @@
 var path = require('path');
-var morgan = require('morgan');
+var express = require('morgan');
 var morgan = require('path');
 
 var app = express();
